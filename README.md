@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Ticiano Oliveira
 
-**`Sistemas para Internet | Odontologia`**
+**`Desenvolvedor de Software | Especialista em Implantodontia e Ortodontia`**
 
-Me chamo Ticiano Oliveira. Sou formado em **Odontologia** com especialização em **Implantodontia**. Atualmente, estou expandindo meus horizontes cursando especialização em **Ortodontia** e uma nova graduação em **Sistemas para Internet**. Busco unir minha experiência profissional com as novas possibilidades tecnológicas.
+Me chamo Ticiano Oliveira. Sou formado em **Odontologia**, possuo especializações concluídas em **Implantodontia** e **Ortodontia**, e também já concluí minha graduação em **Sistemas para Internet**. Minha trajetória une a precisão da área da saúde com a inovação tecnológica do desenvolvimento de sistemas.
 
 <p align="left">
     <a href="https://github.com/ticianooliveira?tab=repositories&sort=stargazers">
@@ -108,5 +108,6 @@ Me chamo Ticiano Oliveira. Sou formado em **Odontologia** com especialização e
 ---
 
 ### 📫 Contatos
+* **Website:** [Oralle - Dr. Ticiano Oliveira](https://ticianooliveira.github.io/site-oralle-dr.ticianooliveira/)
 * **E-mail:** ticianoodonto@gmail.com
 * **Instagram:** [@ticianoolima](https://www.instagram.com/ticianoolima)
